@@ -1,0 +1,18 @@
+{
+  "description": "NativeScript-Vue application",
+  "license": "MIT",
+  "readme": "nsvuefirebase",
+  "nativescript": {
+    "id": "com.ci.nsvuefb"
+  },
+  "dependencies": {
+    "tns-core-modules": "3.4.0",
+    "nativescript-plugin-firebase": "^5.1.7"
+  },
+  "devDependencies": {
+    "babel-traverse": "6.26.0",
+    "babel-types": "6.26.0",
+    "babylon": "6.18.0",
+    "lazy": "1.0.11"
+  }
+}
